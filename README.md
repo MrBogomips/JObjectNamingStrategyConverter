@@ -1,4 +1,4 @@
-#JObject NamingStrategy PoC
+# JObject NamingStrategy PoC
 
 Newtonsoft default serializer doesn't honour the NamingStrategy
 for JObject object.
